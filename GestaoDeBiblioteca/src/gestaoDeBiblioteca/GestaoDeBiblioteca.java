@@ -350,7 +350,7 @@ public class GestaoDeBiblioteca {
 							System.out.println("Nenhum livro com esse titulo!");
 							System.out.println("Voltando ao menu...");
 							System.out.println("");
-							break;
+							opcao = 0
 						}
 
 					}
